@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+.selectContainer {
+    max-width: 30%;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: #fff;
+}
+@media (max-width: 768px) {
+    .selectContainer {
+        max-width: 80%;
+    }
+}
+.selectContainer select {
+    width: 90%;
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.selectContainer select:focus {
+    outline: none;
+}
+.school-details {
+    display: none;
+    margin-top: 20px;
+}
+.button-container {
+    margin-bottom: 20px;
+}
+.button-container button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+iframe {
+    width: 80%;
+    height: 500px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    background-color: #ccc;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
