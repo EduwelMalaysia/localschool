@@ -22,8 +22,8 @@ const schoolLinks = {
     "school3": {
         name: "Frontier International School [FRT]",
         links: [
-            { name: "Google School FRT", url: "" },
-            { name: "School FRT Website", url: "" }
+            { name: "Attendance", url: "https://docs.google.com/spreadsheets/d/1_81hW4JyIsYksPXNfOiIh6fsG9upnliGGkpvabDa598/edit?usp=sharing" },
+            { name: "Collect Payment", url: "https://eduwelmalaysia.github.io/localschool/error.html" }
         ]
     }
 };
