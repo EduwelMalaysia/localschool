@@ -27,7 +27,7 @@ const schoolLinks = {
         ]
     },
     "school4": {
-        name: "Center",
+        name: "HQ Center",
         links: [
             { name: "Sales Report", url: "https://docs.google.com/spreadsheets/d/1UpfXnLqUO1MP_m93RwglwzWEVGpWmJLxgykb8RBdUwc/edit?gid=0#gid=0" },
             { name: "LMS login", url: "https://eduwel.asia/eduvault/login/" }
