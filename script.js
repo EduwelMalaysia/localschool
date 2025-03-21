@@ -61,8 +61,7 @@ function updateSchoolDetails() {
 
             button.textContent = link.name; // Fix: use correct property name
             
-            if (link.url.includes("https://forms.gle") ||  link.url.includes("/folders/")) {
-                // If it's a Google Form, open in a new tab
+            if (link.url.includes("https://forms.gle") ||  link.url.includes("/folders/") ||  link.url.includes("eduwel.asia")) {
                 button.onclick = function () {
                     window.open(link.url, "_blank");
                 };
