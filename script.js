@@ -25,6 +25,13 @@ const schoolLinks = {
             { name: "Attendance", url: "https://docs.google.com/spreadsheets/d/1_81hW4JyIsYksPXNfOiIh6fsG9upnliGGkpvabDa598/edit?usp=sharing" },
             { name: "Collect Payment", url: "https://eduwelmalaysia.github.io/localschool/error.html" }
         ]
+    },
+    "school4": {
+        name: "Center",
+        links: [
+            { name: "Sales Report", url: "https://docs.google.com/spreadsheets/d/1UpfXnLqUO1MP_m93RwglwzWEVGpWmJLxgykb8RBdUwc/edit?gid=0#gid=0" },
+            { name: "LMS login", url: "https://eduwel.asia/eduvault/login/" }
+        ]
     }
 };
 
