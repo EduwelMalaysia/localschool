@@ -30,7 +30,8 @@ const schoolLinks = {
         name: "HQ Center",
         links: [
             { name: "Sales Report", url: "https://docs.google.com/spreadsheets/d/1UpfXnLqUO1MP_m93RwglwzWEVGpWmJLxgykb8RBdUwc/edit?gid=0#gid=0" },
-            { name: "LMS login", url: "https://eduwel.asia/eduvault/login/" }
+            { name: "LMS login", url: "https://eduwel.asia/eduvault/login/" },
+            { name: "Available Slot", url:"https://docs.google.com/spreadsheets/d/1rYADXUBbhGfApGEE_QKmipVhBurHF5F8r63isi_Uk3k/edit?usp=sharing"}
         ]
     }
 };
