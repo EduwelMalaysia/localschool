@@ -3,6 +3,7 @@ const schoolLinks = {
         name: "SJKC Choong Wen [CW]",
         links: [
             { name: "Attendances", url: "https://docs.google.com/spreadsheets/d/11NA_ggeQK7GsRRp2p2ibrcR_Y07uk5ZI7euOjSJnLzo/edit?usp=sharing" },
+            { name: "Check IN/OUT", url: "https://forms.gle/315SRghxYkKEod4V6"},
             { name: "Ads Poster", url: "https://drive.google.com/drive/u/0/folders/15zLKxn0pl0HUYh90_ts30FsTXkS16aO1" },
             { name: "Permit File", url: "https://drive.google.com/drive/folders/1AvaO6HR9yYVz65QF9g1cEZfZ9CpA4FZF?usp=drive_link" },
             { name: "Sales record", url: "https://docs.google.com/spreadsheets/d/1PEZlIFztsLXEW72Q8b77ujIGM0JJT2lueUDqyoWeVf0/edit?usp=sharing" },
@@ -14,6 +15,7 @@ const schoolLinks = {
         name: "SJKC Chung Kwok [CKS]",
         links: [
             { name: "Attendances", url: "https://docs.google.com/spreadsheets/d/1keLE0zXeRcDT08_D7X-RFAjBvQk2u5HdCXMPfzLzUkg/edit?usp=sharing" },
+            { name: "Check IN/OUT", url: "https://forms.gle/315SRghxYkKEod4V6"},
             { name: "CKS Calendar 1", url: "https://drive.google.com/file/d/1UH33smbKFIbiEZT5aXRbMFNb5krE-et7/preview" },
             { name: "CKS Calendar 2", url: "https://drive.google.com/file/d/1wF4v3lsrkR2CT1pEK0X9AFcn1JBGXYUo/preview" },
             { name: "Sales record", url: "https://docs.google.com/spreadsheets/d/1E8j8de04m4dcdqqJHUscSk25NAICN1WIAJPNIUYKShM/edit?usp=sharing" },
@@ -24,6 +26,7 @@ const schoolLinks = {
         name: "Frontier International School [FRT]",
         links: [
             { name: "Attendance", url: "https://docs.google.com/spreadsheets/d/1_81hW4JyIsYksPXNfOiIh6fsG9upnliGGkpvabDa598/edit?usp=sharing" },
+            { name: "Check IN/OUT", url: "https://forms.gle/315SRghxYkKEod4V6"},
             { name: "Collect Payment", url: "https://eduwelmalaysia.github.io/localschool/error.html" }
         ]
     },
