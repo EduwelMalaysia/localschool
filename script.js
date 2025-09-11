@@ -16,8 +16,9 @@ const schoolLinks = {
         links: [
             { name: "Attendances", url: "https://docs.google.com/spreadsheets/d/1keLE0zXeRcDT08_D7X-RFAjBvQk2u5HdCXMPfzLzUkg/edit?usp=sharing" },
             { name: "Check IN/OUT", url: "https://forms.gle/315SRghxYkKEod4V6"},
-            { name: "CKS Calendar 1", url: "https://drive.google.com/file/d/1UH33smbKFIbiEZT5aXRbMFNb5krE-et7/preview" },
-            { name: "CKS Calendar 2", url: "https://drive.google.com/file/d/1wF4v3lsrkR2CT1pEK0X9AFcn1JBGXYUo/preview" },
+            { name: "CKS Calendar T1", url: "https://drive.google.com/file/d/1UH33smbKFIbiEZT5aXRbMFNb5krE-et7/preview" },
+            { name: "CKS Calendar T2", url: "https://drive.google.com/file/d/1wF4v3lsrkR2CT1pEK0X9AFcn1JBGXYUo/preview" },
+            { name: "CKS Calendar T3", url: "https://drive.google.com/file/d/1HflR57ihoUDCXiN2sb1oENoS8m0-eTih/preview" },
             { name: "Sales record", url: "https://docs.google.com/spreadsheets/d/1E8j8de04m4dcdqqJHUscSk25NAICN1WIAJPNIUYKShM/edit?usp=sharing" },
             { name: "Payment record - Emily", url: "https://docs.google.com/spreadsheets/d/1rpI73_Uoq5SHenEuHQy3Y3cf0DeYJnJHHMf3X4XwmUM/edit?usp=sharing" }
         ]
